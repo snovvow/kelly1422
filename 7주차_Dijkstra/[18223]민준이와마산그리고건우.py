@@ -40,3 +40,4 @@ if gunwoo == 0:
     print('SAVE HIM')
 else:
     print('GOOD BYE')
+    
