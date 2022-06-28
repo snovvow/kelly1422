@@ -28,3 +28,4 @@ for idx, info in enumerate(edges) :
         break
 else:
     print(0)
+
