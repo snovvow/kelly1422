@@ -17,6 +17,8 @@ for i in range (pwd_len - 1, -1, -1) :
 
 print(cnt)
 
+
+# 처음에 생각한 방법, 시간 초과
 # import sys
 # input = sys.stdin.readline
 
