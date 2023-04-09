@@ -25,7 +25,7 @@ def get_distance(homes, chickens) :
         city_distance += distance
     return city_distance
 
-result = 1000
+result = 10000
 for comb in combinations(chickens, M) :
     result = min(result, get_distance(homes, comb))
     
