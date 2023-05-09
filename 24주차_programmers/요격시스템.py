@@ -7,7 +7,6 @@ def solution(targets):
 
     i = 0
     while (i < len(sort_t)) :
-        print('i', i)
         end = sort_t[i][1]
         answer += 1
         while (i < len(sort_t) - 1) :
